@@ -1,4 +1,4 @@
-__author__ = 'SherlockLiao'
+__author__ = 'YuxuanXiu'
 
 from torch import nn
 
